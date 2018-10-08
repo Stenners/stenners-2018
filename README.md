@@ -1,2 +1,2 @@
-# stenners-2018
+# Stenners
 Stenners homepage 2018
